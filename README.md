@@ -1,2 +1,1 @@
-# YogAI
-The codebase for YogAI- an AI based startup
+# Fun stuff for personal use
